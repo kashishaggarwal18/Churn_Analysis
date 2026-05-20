@@ -1,13 +1,13 @@
 # Churn_Analysis
 # 📊 Telecom Customer Churn Analysis
 
-ABOUT
+# ABOUT
 
 This project focuses on analyzing customer churn behavior in the telecom industry using interactive data visualization and business intelligence techniques. The dashboard provides insights into customer demographics, service usage patterns, billing preferences, contract types, and churn trends to help businesses identify high-risk customers and improve retention strategies.
 
 The analysis was built using **Power BI** and is designed to support data-driven decision-making by highlighting the key factors influencing customer churn.
 
-Key Insights
+# Key Insights
 
 ## Customer Profile
 
